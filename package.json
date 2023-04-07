@@ -1,14 +1,12 @@
 {
-  "name": "webpack-glsl-loader",
+  "name": "@davcri/webpack-glsl-loader",
   "version": "1.0.1",
   "description": "A webpack loader for glsl shaders - includes support for nested imports.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/grieve/webpack-glsl-loader.git"
+    "url": "git+https://github.com/davcri/webpack-glsl-loader.git"
   },
   "keywords": [
     "glsl",
@@ -19,10 +17,10 @@
     "import",
     "include"
   ],
-  "author": "Ryan Grieve <me@ryangrieve.com> (http://ryangrieve.com)",
+  "author": "davcri <davcri91@gmail.com> (https://davcri.it)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/grieve/webpack-glsl-loader/issues"
+    "url": "https://github.com/davcri/webpack-glsl-loader/issues"
   },
-  "homepage": "https://github.com/grieve/webpack-glsl-loader#readme"
+  "homepage": "https://github.com/davcri/webpack-glsl-loader#readme"
 }

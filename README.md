@@ -1,5 +1,7 @@
 # Webpack loader for GLSL shaders
 
+Fork of https://github.com/grieve/webpack-glsl-loader
+
 A glsl shader loader for webpack, includes support for nested imports, 
 allowing for smart code reuse among more complex shader implementations. 
 The shader is returned as a string.
