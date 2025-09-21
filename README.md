@@ -11,7 +11,7 @@ The shader is returned as a string.
 ## Install
 
 ```shell
-npm install --save-dev webpack-glsl-loader
+npm install --save-dev @davcri/webpack-glsl-loader
 ```
 
 ## Usage
@@ -33,7 +33,7 @@ require("webpack-glsl!./my-lovely-shader.glsl");
     loaders: [
       {
         test: /\.glsl$/,
-        loader: "webpack-glsl",
+        loader: "@davcri/webpack-glsl-loader",
       },
     ];
   }
